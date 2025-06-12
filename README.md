@@ -85,4 +85,5 @@ To run the tests, you can configure your IDE to run unittest tests in the "." di
 
 ```bash
 python -m unittest test_chess.py
-```
+```f row=="8":
+            print("*"8)
